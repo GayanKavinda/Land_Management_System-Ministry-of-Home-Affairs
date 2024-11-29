@@ -75,14 +75,6 @@ Charts for easy analysis of trends and data.
 
 ---
 
-## 📄 Embed the PDF Document  
-
-You can view the PDF document directly below:  
-
-<iframe src="/PDF/Development%20Unit%20Projects%20-%20Land%20Management.pdf" width="100%" height="600px"></iframe>  
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the Repository**  
