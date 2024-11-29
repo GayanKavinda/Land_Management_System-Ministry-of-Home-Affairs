@@ -19,6 +19,14 @@ The **Land Management System**, developed for the **Ministry of Home Affairs**, 
 
 ---
 
+## 📄 View the Full PDF Document  
+
+🔗 [Click here to view the PDF document](./path-to-your-document.pdf)  
+
+For a detailed overview, you can also download the PDF directly from the link above.  
+
+---
+
 ## 📋 Key Features  
 
 ### 👥 Manage User Roles  
@@ -64,6 +72,14 @@ Secure messaging system with public and private message options.
 
 ### 📊 Data Visualization  
 Charts for easy analysis of trends and data.  
+
+---
+
+## 📄 Embed the PDF Document  
+
+You can view the PDF document directly below:  
+
+<iframe src="./path-to-your-document.pdf" width="100%" height="600px"></iframe>  
 
 ---
 
