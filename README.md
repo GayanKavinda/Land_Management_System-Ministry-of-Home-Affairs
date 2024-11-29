@@ -21,7 +21,7 @@ The **Land Management System**, developed for the **Ministry of Home Affairs**, 
 
 ## 📄 View the Full PDF Document  
 
-🔗 [Click here to view the PDF document](./path-to-your-document.pdf)  
+🔗 [Click here to view the PDF document](https://github.com/GayanKavinda/Land_Management_System-Ministry-of-Home-Affairs/blob/main/public/PDF/Development%20Unit%20Projects%20-%20Land%20Management.pdf)  
 
 For a detailed overview, you can also download the PDF directly from the link above.  
 
@@ -79,7 +79,7 @@ Charts for easy analysis of trends and data.
 
 You can view the PDF document directly below:  
 
-<iframe src="./path-to-your-document.pdf" width="100%" height="600px"></iframe>  
+<iframe src="https://github.com/GayanKavinda/Land_Management_System-Ministry-of-Home-Affairs/blob/main/public/PDF/Development%20Unit%20Projects%20-%20Land%20Management.pdf" width="100%" height="600px"></iframe>  
 
 ---
 
