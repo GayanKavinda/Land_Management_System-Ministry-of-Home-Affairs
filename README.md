@@ -21,7 +21,7 @@ The **Land Management System**, developed for the **Ministry of Home Affairs**, 
 
 ## 📄 View the Full PDF Document  
 
-🔗 [Click here to view the PDF document](https://github.com/GayanKavinda/Land_Management_System-Ministry-of-Home-Affairs/blob/main/public/PDF/Development%20Unit%20Projects%20-%20Land%20Management.pdf)  
+🔗 [📕 Click here to view the PDF document](https://github.com/GayanKavinda/Land_Management_System-Ministry-of-Home-Affairs/blob/main/public/PDF/Development%20Unit%20Projects%20-%20Land%20Management.pdf)  
 
 For a detailed overview, you can also download the PDF directly from the link above.  
 
