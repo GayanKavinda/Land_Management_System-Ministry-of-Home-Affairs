@@ -79,7 +79,7 @@ Charts for easy analysis of trends and data.
 
 You can view the PDF document directly below:  
 
-<iframe src="https://github.com/GayanKavinda/Land_Management_System-Ministry-of-Home-Affairs/blob/main/public/PDF/Development%20Unit%20Projects%20-%20Land%20Management.pdf" width="100%" height="600px"></iframe>  
+<iframe src="/PDF/Development%20Unit%20Projects%20-%20Land%20Management.pdf" width="100%" height="600px"></iframe>  
 
 ---
 
