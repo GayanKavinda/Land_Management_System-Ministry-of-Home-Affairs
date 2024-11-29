@@ -6,7 +6,7 @@ The **Land Management System**, developed for the **Ministry of Home Affairs**, 
 
 ---
 
-![Project Showcase](https://via.placeholder.com/800x400.png?text=Project+Showcase)  
+![Dashboard](https://github.com/GayanKavinda/Land_Management_System-Ministry-of-Home-Affairs/blob/main/Project%20Showcase/3.%20Dashboard.jpeg)  
 
 ## 🛠 Technologies Used  
 
