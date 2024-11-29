@@ -1,0 +1,112 @@
+/* public/css/custom.css */
+
+/* Add your custom styles here */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-left {
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 380px;
+    border-radius: 1%;
+    border: 1px solid black;
+    width: 250px;
+    padding-left: 5px;
+}
+
+.card-body-left {
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+/* Customize button styles */
+.btn-primary,
+.btn-info,
+.btn-dark {
+    width: 200px; /* Set a fixed width for all buttons */
+    margin-top: 10px; /* Add margin to the top */
+    font-size: 12px;
+}
+
+.btn.btn-left {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    text-decoration: none; /* Removes default link underline */
+    padding: 10px 20px; /* Adjust padding as needed */
+    display: inline-block; /* Ensures padding is applied properly */
+    width: 200px;
+}
+
+/* Styling for hover effect */
+.btn.btn-left:hover {
+    background-color: black;
+    color: white;
+}
+
+/* Hover styles */
+.btn:hover {
+    background-color: rgb(28, 30, 31); /* Set the hover background color */
+    color: white; /* Set the hover text color */
+    border: 1px solid #ffffff; /* Set the hover border color */
+}
+
+.col-md-3 {
+    padding-right: 5px;
+    width: 250px;
+}
+
+.container {
+    font-size: 14px;
+}
+
+.card-right {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-radius: 1%;
+}
+
+/* Style for the form container */
+.form-container {
+    max-width: 600px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Apply styles to the card-body */
+.card-body {
+    background-color: white; /* Set your desired background color */
+    text-align: center;
+}
+
+/* Style the h1 heading */
+.card-body h1 {
+    color: #333; /* Set your desired text color */
+    font-size: 36px; /* Set your desired font size */
+    margin-bottom: 20px; /* Add spacing below the heading */
+}
+
+/* Style the paragraph */
+.card-body p {
+    color: #555; /* Set your desired text color */
+    font-size: 16px; /* Set your desired font size */
+    line-height: 1.5; /* Set your desired line height */
+    margin-bottom: 20px; /* Add spacing below the paragraph */
+}
+
+.notification-badge {
+    background-color: #FF5733; /* Your desired background color */
+    color: #FFFFFF; /* Your desired text color */
+    font-size: 12px; /* Your desired font size */
+    padding: 5px 8px; /* Adjust padding as needed */
+    border-radius: 50%; /* To make it a circular badge */
+    margin-left: 5px; /* Add margin for spacing */
+}
+

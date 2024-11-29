@@ -1,0 +1,34 @@
+/* public/css/styles.css */
+
+/* Alternating row colors */
+.table-striped tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+/* Button styling */
+.btn-group .btn {
+    margin-right: 5px;
+}
+
+/* Additional table styling */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    padding: 8px;
+    border: 1px solid #dddddd;
+    text-align: left;
+}
+
+/* Add this to your styles.css file */
+.pending-user {
+    background-color: #FFD700; /* Light yellow background color for highlighting pending users */
+}
+
+
+.table.table-striped tbody tr.no-role-user {
+    background-color: #FFD700 !important;
+    /* Add other styles as needed */
+}
